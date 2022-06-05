@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-quote-app/static/css/main.91f129cc.chunk.css",
-    "main.js": "/react-quote-app/static/js/main.5d9d2c30.chunk.js",
-    "main.js.map": "/react-quote-app/static/js/main.5d9d2c30.chunk.js.map",
+    "main.js": "/react-quote-app/static/js/main.c40e7985.chunk.js",
+    "main.js.map": "/react-quote-app/static/js/main.c40e7985.chunk.js.map",
     "runtime-main.js": "/react-quote-app/static/js/runtime-main.a12d343a.js",
     "runtime-main.js.map": "/react-quote-app/static/js/runtime-main.a12d343a.js.map",
     "static/js/2.5452f2ec.chunk.js": "/react-quote-app/static/js/2.5452f2ec.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.a12d343a.js",
     "static/js/2.5452f2ec.chunk.js",
     "static/css/main.91f129cc.chunk.css",
-    "static/js/main.5d9d2c30.chunk.js"
+    "static/js/main.c40e7985.chunk.js"
   ]
 }
