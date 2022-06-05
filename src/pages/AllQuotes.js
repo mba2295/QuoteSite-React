@@ -1,5 +1,4 @@
-import { useEffect } from "react";
-import { Fragment } from "react/cjs/react.development";
+import { useEffect, Fragment } from "react";
 import NoQuotesFound from "../components/quotes/NoQuotesFound";
 import QuoteList from "../components/quotes/QuoteList";
 import Status from "../components/UI/Status";
