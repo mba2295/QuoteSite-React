@@ -1,6 +1,6 @@
 {
   "name": "react-quote-app",
-  "homepage": "https://mba2295.github.io/react-quote-app",
+  "homepage": "https://mba2295.github.io/QuoteSite-React",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

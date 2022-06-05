@@ -10,19 +10,19 @@ function App() {
     <div>
       <Layout>
         <Switch>
-          <Route path="/QuoteSite-React/" exact>
+          <Route path="/" exact>
             <Redirect to="/quotes"></Redirect>
           </Route>
-          <Route path="/QuoteSite-React/quotes" exact>
+          <Route path="/quotes" exact>
             <AllQuotes></AllQuotes>
           </Route>
-          <Route path="/QuoteSite-React/quotes/:quoteId">
+          <Route path="/quotes/:quoteId">
             <QuoteDetails></QuoteDetails>
           </Route>
-          <Route path="/QuoteSite-React/addquote" exact>
+          <Route path="/addquote" exact>
             <AddQuote></AddQuote>
           </Route>
-          <Route path="/QuoteSite-React/*">
+          <Route path="*">
             <NotFound></NotFound>
           </Route>
         </Switch>
