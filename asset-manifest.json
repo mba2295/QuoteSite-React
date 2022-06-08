@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/QuoteSite-React/static/css/main.91f129cc.chunk.css",
-    "main.js": "/QuoteSite-React/static/js/main.1c9f6de2.chunk.js",
-    "main.js.map": "/QuoteSite-React/static/js/main.1c9f6de2.chunk.js.map",
+    "main.js": "/QuoteSite-React/static/js/main.4c3a833a.chunk.js",
+    "main.js.map": "/QuoteSite-React/static/js/main.4c3a833a.chunk.js.map",
     "runtime-main.js": "/QuoteSite-React/static/js/runtime-main.2a56726b.js",
     "runtime-main.js.map": "/QuoteSite-React/static/js/runtime-main.2a56726b.js.map",
-    "static/js/2.b661a0a9.chunk.js": "/QuoteSite-React/static/js/2.b661a0a9.chunk.js",
-    "static/js/2.b661a0a9.chunk.js.map": "/QuoteSite-React/static/js/2.b661a0a9.chunk.js.map",
+    "static/js/2.1d37fa83.chunk.js": "/QuoteSite-React/static/js/2.1d37fa83.chunk.js",
+    "static/js/2.1d37fa83.chunk.js.map": "/QuoteSite-React/static/js/2.1d37fa83.chunk.js.map",
     "index.html": "/QuoteSite-React/index.html",
     "static/css/main.91f129cc.chunk.css.map": "/QuoteSite-React/static/css/main.91f129cc.chunk.css.map",
-    "static/js/2.b661a0a9.chunk.js.LICENSE.txt": "/QuoteSite-React/static/js/2.b661a0a9.chunk.js.LICENSE.txt"
+    "static/js/2.1d37fa83.chunk.js.LICENSE.txt": "/QuoteSite-React/static/js/2.1d37fa83.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2a56726b.js",
-    "static/js/2.b661a0a9.chunk.js",
+    "static/js/2.1d37fa83.chunk.js",
     "static/css/main.91f129cc.chunk.css",
-    "static/js/main.1c9f6de2.chunk.js"
+    "static/js/main.4c3a833a.chunk.js"
   ]
 }
