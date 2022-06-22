@@ -3,7 +3,7 @@ import styles from "./MainNavigation.module.css";
 const MainNavigation = () => {
   return (
     <header className={styles.header}>
-      <div className={styles.logo}>Github Actions WISE Quotes</div>
+      <div className={styles.logo}>Github Pages WISE Quotes</div>
       <nav className={styles.nav}>
         <ul>
           <li>
